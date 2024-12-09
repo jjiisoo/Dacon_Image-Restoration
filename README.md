@@ -156,6 +156,7 @@
 | **Optimizer**     | AdamW                      |
 | **Loss**          | L1Loss, MSELoss, SSIM      |
 
+최종 **val_score=0.6131, private score=0.54469**로 데이콘 순위 23등으로 마무리
 
   
 
