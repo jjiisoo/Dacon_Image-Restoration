@@ -156,7 +156,13 @@
 | **Optimizer**     | AdamW                      |
 | **Loss**          | L1Loss, MSELoss, SSIM      |
 
-최종 **val_score=0.6131, private score=0.54469**로 데이콘 순위 23등으로 대회 마무리
+
+![TEST_002](https://github.com/user-attachments/assets/ca60ce94-4538-4cc9-a520-8fac2693b41a)
+![TEST_001](https://github.com/user-attachments/assets/70a268ec-0178-4d9e-89de-edd3ae7794b9)
+최종 결과의 일부 사진
+
+### 최종 **val_score=0.6131, private score=0.54469**로 데이콘 순위 23등으로 대회 마무리
+
 
 ## ‼️ 아쉬운 점 ‼️
 
